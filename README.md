@@ -1,6 +1,6 @@
-## notesApp
+# notesApp
 
-# Tech Stack = 
+## Tech Stack = 
 
 - Html
 - Css
