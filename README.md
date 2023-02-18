@@ -1,4 +1,4 @@
-# notesApp
+# NOTES APP
 
 ## Tech Stack = 
 
